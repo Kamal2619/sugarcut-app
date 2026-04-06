@@ -1,0 +1,10 @@
+{
+  "name": "sugar-cut",
+  "version": "1.0.0",
+  "description": "Sugar Cut App",
+  "main": "app.js",
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
