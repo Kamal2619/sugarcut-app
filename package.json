@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "Sugar Cut App",
   "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Static build'"
+  },
   "dependencies": {},
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   }
 }
